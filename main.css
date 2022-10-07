@@ -1,0 +1,121 @@
+.console{
+  background-color: black;
+  color: white;
+  width: 400px;
+  text-align: right;
+}
+
+.number{
+  background-color:lightgray;
+  color: white;
+  width: 100px;
+}
+
+.symbol{
+  background-color: orange;
+  color: white;
+  width: 100px;
+}
+
+#button2{
+  width:200px;
+}
+
+#button5{
+  background-color:lightgrey;
+  color:white;
+  width:100px;
+}
+
+#button17{
+  width:300px;
+}
+
+.calculator{
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 100px;
+  margin: 0 auto;
+}
+
+#button5:hover{
+  background-color: #dfb07e;
+}
+
+#button6:hover{
+  background-color: #dfb07e;
+}
+
+#button7:hover{
+  background-color: #dfb07e;
+}
+
+#button9:hover{
+  background-color: #dfb07e;
+}
+
+#button10:hover{
+  background-color: #dfb07e;
+}
+
+#button11:hover{
+  background-color: #dfb07e;
+}
+
+#button13:hover{
+  background-color: #dfb07e;
+}
+
+#button14:hover{
+  background-color: #dfb07e;
+}
+
+#button15:hover{
+  background-color: #dfb07e;
+}
+
+#button17:hover{
+  background-color: #dfb07e;
+}
+
+#button5:active{
+  background-color: #dd8d37;
+}
+
+#button6:active{
+  background-color: #dd8d37;
+}
+
+#button7:active{
+  background-color: #dd8d37;
+}
+
+#button9:active{
+  background-color: #dd8d37;
+}
+
+#button10:active{
+  background-color: #dd8d37;
+}
+
+#button11:active{
+  background-color: #dd8d37;
+}
+
+#button13:active{
+  background-color: #dd8d37;
+}
+
+#button14:active{
+  background-color: #dd8d37;
+}
+
+#button15:active{
+  background-color: #dd8d37;
+}
+
+#button17:active{
+  background-color: #dd8d37;
+}
